@@ -17,28 +17,28 @@ export class CardRegisterComponent implements OnInit {
 card: cardmodel= new cardmodel();
 datacard: cardmodel[]= [
   {
-    cardtitul :"TITULO 1",
-    descri: "descripcion",
+    cardtitul :"Titulo 1",
+    descri: "Descripcion 1",
     boton: "1",
-    il: "https://images8.alphacoders.com/104/1042296.jpg"
+    il: "https://c0.wallpaperflare.com/preview/983/774/342/mexico-mexico-city-cdmx-ciudad-de-mexico.jpg"
   },
   {
-    cardtitul :"TITULO2",
-    descri: "descripcion2",
+    cardtitul :"Titulo 2",
+    descri: "Descripcion 2",
     boton: "2",
-    il: "https://images6.alphacoders.com/470/470300.jpg"
+    il: "https://fondosmil.com/fondo/29558.jpg"
   },
   {
-    cardtitul :"TITULO3",
-    descri: "descripcion3",
+    cardtitul :"Titulo 3",
+    descri: "Descripcion 3",
     boton: "3",
-    il: "https://images5.alphacoders.com/518/518518.jpg"
+    il: "https://www.xtrafondos.com/descargar.php?id=4941&resolucion=3840x2160"
   },
   {
-    cardtitul :"TITULO4",
-    descri: "descripcion4",
+    cardtitul :"Titulo 4",
+    descri: "Descripcion 4",
     boton: "4",
-    il: "https://images2.alphacoders.com/902/902988.jpg"
+    il: "https://fondosmil.com/fondo/63896.jpg"
   }
 ]
 
